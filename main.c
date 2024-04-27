@@ -2,5 +2,6 @@
 int main(char argc ,char *argv[])
 {
 ;
-__has_extension
+__has_extensionfjghcdhk
+
 }
